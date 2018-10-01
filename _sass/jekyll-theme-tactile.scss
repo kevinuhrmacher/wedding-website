@@ -1,6 +1,8 @@
 @import "rouge-base16-dark";
 @import url('https://fonts.googleapis.com/css?family=Chivo:900');
 
+$caslon: Caslon;
+
 /* http://meyerweb.com/eric/tools/css/reset/
    v2.0 | 20110126
    License: none (public domain)
@@ -51,7 +53,7 @@ table {
 
 /* LAYOUT STYLES */
 body {
-  font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: $caslon, 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 1em;
   line-height: 1.5;
   color: #6d6d6d;
