@@ -1,8 +1,6 @@
 @import "rouge-base16-dark";
 @import url('https://fonts.googleapis.com/css?family=Chivo:900');
 
-$caslon: adobe-caslon-pro, serif;
-
 /* http://meyerweb.com/eric/tools/css/reset/
    v2.0 | 20110126
    License: none (public domain)
@@ -58,7 +56,6 @@ body {
   line-height: 1.5;
   color: #6d6d6d;
   text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);
-  background: #e7e7e7 url(../images/body-bg.png) 0 0 repeat;
 }
 
 a {
@@ -74,7 +71,7 @@ header {
 }
 
 header h1 {
-  font-family: $caslon, 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 48px; font-weight: 900;
   line-height: 1.2;
   color: #303030;
