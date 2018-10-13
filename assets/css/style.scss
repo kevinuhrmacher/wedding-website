@@ -4,6 +4,10 @@
 @import "jekyll-theme-tactile";
 
 
+body {
+	background-color: lighten(#ccc, 18%);
+}
+
 header {
 	text-align: center;
 	max-width: 800px;
@@ -30,4 +34,17 @@ header {
 	margin: 0 20px;
 	font-family: "futura-pt-bold";
 	text-transform: uppercase;
+}
+
+h2 {
+	font-family: "adobe-caslon-pro", serif;
+	font-style: bold;
+}
+
+p {
+	font-family: "adobe-caslon-pro", serif;
+}
+
+#main_content img {
+	border: 5px solid white;
 }
