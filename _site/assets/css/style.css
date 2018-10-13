@@ -434,7 +434,7 @@ header {
     margin: 50px auto 20px; }
 
 .leaves-1 {
-  max-width: 200px;
+  max-width: 175px;
   margin-top: 30px; }
 
 .m-item {
@@ -451,4 +451,5 @@ p {
   font-family: "adobe-caslon-pro", serif; }
 
 #main_content img {
-  border: 5px solid white; }
+  border: 5px solid white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.17); }
