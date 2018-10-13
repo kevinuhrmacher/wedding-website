@@ -6,10 +6,10 @@
 
 body {
 	background-color: lighten(#ccc, 18%);
+	text-align: center;
 }
 
 header {
-	text-align: center;
 	max-width: 800px;
 	margin: 0 auto;
 
@@ -22,9 +22,17 @@ header {
 	}
 }
 
-.leaves-1 {
+.leaves-1, #container .inner img.leaves-2 {
 	max-width: 175px;
 	margin-top: 30px;
+}
+
+.more-info {
+	margin-top: 20px;
+}
+
+.leaves-2 {
+  transform: rotate(180deg); /* Equal to rotateZ(45deg) */
 }
 
 .page-menu {}
@@ -46,7 +54,6 @@ p {
 }
 
 #main_content {
-	text-align: center;
 
 	img {
 		border: 5px solid white;
