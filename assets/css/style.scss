@@ -45,7 +45,11 @@ p {
 	font-family: "adobe-caslon-pro", serif;
 }
 
-#main_content img {
-	border: 5px solid white;
-	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.17);
+#main_content {
+	text-align: center;
+
+	img {
+		border: 5px solid white;
+		box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.17);
+	}
 }
