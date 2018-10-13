@@ -13,7 +13,8 @@ header {
 		font-family: "adobe-caslon-pro", serif;
 		font-weight: 400;
 		font-style: italic;
-		margin-top: 50px;
+		max-width: 600px;
+		margin: 50px auto;
 	}
 }
 
@@ -27,4 +28,6 @@ header {
 .m-item {
 	display: inline-block;
 	margin: 0 20px;
+	font-family: "futura-pt-bold";
+	text-transform: uppercase;
 }
