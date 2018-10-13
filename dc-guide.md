@@ -4,6 +4,8 @@ layout: dc-guide
 
 We want to help you make the most of your time in the nation’s capital. So, here we’ll share some of our favorite things to do in the city: Where we love to eat, our favorite ways to explore and the best spots around Old Town Alexandria.
 
+# Kevin and Lexi’s picks
+
 ## To Do
 
 Marine Barracks Washington parade on Friday night LINK TK
@@ -29,6 +31,13 @@ If you’re looking for something closer, try the Newseum, the new Police Memori
 ## Restaurants
 
 _Lexi:_ 
+
+_Kevin:_ 
+
+
+## What to get before you come to D.C.
+
+_Lexi:_ Uber app! CODE HERE
 
 _Kevin:_ 
 
