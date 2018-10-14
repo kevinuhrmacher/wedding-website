@@ -454,8 +454,16 @@ h2 {
   font-family: "adobe-caslon-pro", serif;
   font-style: bold; }
 
+h4 {
+  font-family: "adobe-caslon-pro", serif;
+  text-transform: uppercase;
+  margin-top: 40px;
+  margin-bottom: 5px;
+  font-size: 14px; }
+
 p {
-  font-family: "adobe-caslon-pro", serif; }
+  font-family: "adobe-caslon-pro", serif;
+  margin-bottom: 5px; }
 
 #main_content img {
   border: 5px solid white;
