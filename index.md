@@ -5,7 +5,7 @@ layout: default
 ![Proposal](../assets/images/IMG_6672.jpg)
 
 
-#### The ceremony
+#### The mass
 ## Saturday, June 15 at noon
 St. Peter’s Church on Capitol Hill
 
