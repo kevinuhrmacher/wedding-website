@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Proposal](../assets/images/IMG_6671.jpg)
+![Tidal Basin (BW)](../assets/images/IMG_6671.jpg)
 
 
 #### Wedding hotel block

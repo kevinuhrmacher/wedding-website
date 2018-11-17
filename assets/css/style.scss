@@ -4,10 +4,17 @@
 @import "jekyll-theme-tactile";
 
 
+#main_content p {
+	font-size: 1.1em;
+}
+
 body {
 	background-color: lighten(#ccc, 18%);
 	text-align: center;
 }
+
+a {	color: #D4AF37; }
+a:hover { color: darken(#D4AF37, 6%); }
 
 header {
 	max-width: 800px;
@@ -45,6 +52,7 @@ header {
 	margin: 0 20px;
 	font-family: "futura-pt-bold";
 	text-transform: uppercase;
+
 }
 
 h2 {

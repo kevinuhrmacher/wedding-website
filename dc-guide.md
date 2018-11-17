@@ -1,8 +1,9 @@
 ---
-layout: dc-guide
+layout: default
 ---
 
 We want to help you make the most of your time in the nation’s capital. So, here we’ll share some of our favorite things to do in the city: Where we love to eat, our favorite ways to explore and the best spots around Old Town Alexandria.
+
 
 # Kevin and Lexi’s picks
 
@@ -40,6 +41,5 @@ _Kevin:_
 _Lexi:_ Uber app! CODE HERE
 
 _Kevin:_ 
-
 
 
