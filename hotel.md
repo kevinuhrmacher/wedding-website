@@ -7,7 +7,19 @@ layout: default
 
 #### Wedding hotel block
 
-Holiday Inn and Suites — Old Town Alexandria
+We’ve removed the hotel block link while we’re finalizing some other details. Check back here soon for more options and information.
+
+<!--Sheraton Suites — Old Town Alexandria
+
+## [Book a room](https://www.holidayinn.com/redirect?path=rates&brandCode=HI&localeCode=en&regionCode=1&hotelCode=axehd&checkInDate=14&checkInMonthYear=052019&checkOutDate=16&checkOutMonthYear=052019&_PMID=99801505&GPC=USH&viewfullsite=true)
+
+Details here TK 
+
+Rooms in the hotel block must be booked by May 14. 
+-->
+
+
+<!--Holiday Inn and Suites — Old Town Alexandria
 
 ## [Book a room](https://www.holidayinn.com/redirect?path=rates&brandCode=HI&localeCode=en&regionCode=1&hotelCode=axehd&checkInDate=14&checkInMonthYear=052019&checkOutDate=16&checkOutMonthYear=052019&_PMID=99801505&GPC=USH&viewfullsite=true)
 
@@ -28,6 +40,6 @@ ____
 
 [Hampton Inn Alexandria-Old Town/King St Metro](https://hamptoninn3.hilton.com/en/hotels/virginia/hampton-inn-alexandria-old-town-king-st-metro-WASALHX/index.html)
 
-[Hilton Alexandria Old Town](https://www3.hilton.com/en/hotels/virginia/hilton-alexandria-old-town-DCAOTHF/index.html)
+[Hilton Alexandria Old Town](https://www3.hilton.com/en/hotels/virginia/hilton-alexandria-old-town-DCAOTHF/index.html)-->
 
 
