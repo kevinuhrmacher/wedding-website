@@ -13,8 +13,18 @@ body {
 	text-align: center;
 }
 
-a {	color: #a3b4aa; }
-a:hover { color: darken(#a3b4aa, 6%); }
+a {	
+	color: #a3b4aa; 
+	text-decoration: underline;
+	
+	&:hover { 
+		color: darken(#a3b4aa, 6%); 
+	}
+}
+
+.m-item a {
+	text-decoration: none;
+}
 
 header {
 	max-width: 800px;
@@ -58,7 +68,17 @@ header {
 h2 {
 	font-family: "adobe-caslon-pro", serif;
 	font-style: bold;
+	color: rgb(109, 109, 109);
+	margin-top: 10px;
 }
+
+h3 {
+	font-family: "adobe-caslon-pro", serif;
+	font-style: bold;
+	color: rgb(109, 109, 109);
+	margin-top: 10px;
+	margin-bottom: 0;
+}	
 
 h4 {
 	font-family: "adobe-caslon-pro", serif;

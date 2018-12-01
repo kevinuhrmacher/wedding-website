@@ -427,10 +427,13 @@ body {
   text-align: center; }
 
 a {
-  color: #a3b4aa; }
+  color: #a3b4aa;
+  text-decoration: underline; }
+  a:hover {
+    color: #92a69a; }
 
-a:hover {
-  color: #92a69a; }
+.m-item a {
+  text-decoration: none; }
 
 header {
   max-width: 800px;
@@ -463,7 +466,16 @@ header {
 
 h2 {
   font-family: "adobe-caslon-pro", serif;
-  font-style: bold; }
+  font-style: bold;
+  color: #6d6d6d;
+  margin-top: 10px; }
+
+h3 {
+  font-family: "adobe-caslon-pro", serif;
+  font-style: bold;
+  color: #6d6d6d;
+  margin-top: 10px;
+  margin-bottom: 0; }
 
 h4 {
   font-family: "adobe-caslon-pro", serif;
