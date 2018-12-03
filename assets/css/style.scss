@@ -4,8 +4,16 @@
 @import "jekyll-theme-tactile";
 
 
-#main_content p {
-	font-size: 1.1em;
+#main_content {
+
+	img {
+		border: 5px solid white;
+		box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.17);
+	}
+
+	p {
+		font-size: 1.1em;
+	}
 }
 
 body {
@@ -94,11 +102,10 @@ p {
 }
 
 
-
-#main_content {
-
-	img {
-		border: 5px solid white;
-		box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.17);
+@media screen and (max-width: 600px) {
+	body #main_content {
+		text-align: left;
 	}
 }
+
+
