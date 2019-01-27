@@ -491,6 +491,21 @@ p {
   font-family: "adobe-caslon-pro", serif;
   margin-bottom: 5px; }
 
+button.registry-button {
+  padding: 20px;
+  color: #3e4d44;
+  background-color: #a3b4aa;
+  font-family: "futura-pt-bold";
+  text-transform: uppercase;
+  font-size: 14px;
+  width: 45%;
+  margin: 5px 30px;
+  border: 1px solid #92a69a;
+  border-bottom: 2px solid #799283; }
+  button.registry-button:hover {
+    cursor: pointer;
+    background-color: #92a69a; }
+
 @media screen and (max-width: 600px) {
   body #main_content {
     text-align: left; } }

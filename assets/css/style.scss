@@ -70,7 +70,6 @@ header {
 	margin: 0 20px;
 	font-family: "futura-pt-bold";
 	text-transform: uppercase;
-
 }
 
 h2 {
@@ -101,6 +100,23 @@ p {
 	margin-bottom: 5px;
 }
 
+button.registry-button {
+	padding: 20px;
+	color: darken(#a3b4aa, 40%);
+	background-color: #a3b4aa; 
+	font-family: "futura-pt-bold";
+	text-transform: uppercase;
+	font-size: 14px;
+	width: 45%;
+	margin: 5px 30px;
+	border: 1px solid darken(#a3b4aa, 6%);
+	border-bottom: 2px solid darken(#a3b4aa, 15%);
+
+	&:hover {
+		cursor: pointer;
+		background-color: darken(#a3b4aa, 6%); 
+	}
+}
 
 @media screen and (max-width: 600px) {
 	body #main_content {
