@@ -2,8 +2,9 @@
 layout: default
 ---
 
-![Tidal Basin (BW)](../assets/images/IMG_6671.jpg)
+![Tidal Basin (BW)](../assets/images/IMG_6678.jpg)
 
+# _Travel details_
 
 #### Wedding hotel blocks
 There will be two hotel options in historic [Old Town Alexandria](https://www.visitalexandriava.com/old-town-alexandria/), just south of D.C. A block away from one another, they are 5-10 minutes from Reagan National Airport and 15-20 minutes from Mount Vernon. From the hotel you’ll be a short walk or shuttle ride from the shops and restaurants on King Street and the waterfront.
@@ -19,7 +20,7 @@ Parking: $10/night | [**Book with this link by May 17**](https://www.marriott.co
 $109/night*
 
 ### Suite with two queen-size beds and queen pullout 
-For this option, please call the desk at 1-888-236-2427 and mention the group: Lexi Schmidt and Kevin Uhrmacher Wedding.
+For this option, please call the front desk at (703)836-4700 and mention the group — Lexi Schmidt and Kevin Uhrmacher Wedding — to make a reservation.
 
 $109/night*
 

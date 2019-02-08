@@ -423,17 +423,18 @@ footer a:hover {
   border: 5px solid white;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.17); }
 #main_content p {
-  font-size: 1.1em; }
+  font-size: 1.1em;
+  line-height: 1.7em; }
 
 body {
   background-color: #fafafa;
   text-align: center; }
 
 a {
-  color: #a3b4aa;
+  color: #879d90;
   text-decoration: underline; }
   a:hover {
-    color: #92a69a; }
+    color: #6c8576; }
 
 .m-item a {
   text-decoration: none; }
@@ -449,6 +450,8 @@ header {
     font-style: italic;
     max-width: 600px;
     margin: 50px auto 20px; }
+  header h2 {
+    color: #7d7d7d; }
 
 .leaves-1, #container .inner img.leaves-2 {
   max-width: 175px;
@@ -467,10 +470,14 @@ header {
   font-family: "futura-pt-bold";
   text-transform: uppercase; }
 
+h1 {
+  font-family: "adobe-caslon-pro", serif;
+  font-style: bold;
+  margin-top: 10px; }
+
 h2 {
   font-family: "adobe-caslon-pro", serif;
   font-style: bold;
-  color: #6d6d6d;
   margin-top: 10px; }
 
 h3 {
@@ -505,6 +512,17 @@ button.registry-button {
   button.registry-button:hover {
     cursor: pointer;
     background-color: #92a69a; }
+
+.dc-guide {
+  text-align: left; }
+  .dc-guide p {
+    margin-bottom: 20px; }
+  .dc-guide img {
+    max-width: 200px !important;
+    float: right;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    border-width: 4px !important; }
 
 @media screen and (max-width: 600px) {
   body #main_content {

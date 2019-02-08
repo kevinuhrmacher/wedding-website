@@ -13,6 +13,7 @@
 
 	p {
 		font-size: 1.1em;
+		line-height: 1.7em;
 	}
 }
 
@@ -22,11 +23,11 @@ body {
 }
 
 a {	
-	color: #a3b4aa; 
+	color: darken(#a3b4aa, 10%); 
 	text-decoration: underline;
 	
 	&:hover { 
-		color: darken(#a3b4aa, 6%); 
+		color: darken(#a3b4aa, 20%); 
 	}
 }
 
@@ -46,6 +47,10 @@ header {
 		font-style: italic;
 		max-width: 600px;
 		margin: 50px auto 20px;
+	}
+
+	h2 {
+		color: lighten(#303030, 30%);
 	}
 }
 
@@ -72,10 +77,16 @@ header {
 	text-transform: uppercase;
 }
 
+h1 {
+	font-family: "adobe-caslon-pro", serif;
+	font-style: bold;
+	margin-top: 10px;
+}
+
+
 h2 {
 	font-family: "adobe-caslon-pro", serif;
 	font-style: bold;
-	color: rgb(109, 109, 109);
 	margin-top: 10px;
 }
 
@@ -115,6 +126,24 @@ button.registry-button {
 	&:hover {
 		cursor: pointer;
 		background-color: darken(#a3b4aa, 6%); 
+	}
+}
+
+
+
+.dc-guide {
+	text-align: left;
+
+	p {
+		margin-bottom: 20px;
+	}
+
+	img {
+		max-width: 200px !important;
+		float: right;
+		margin-left: 20px;
+		margin-bottom: 10px;
+		border-width: 4px !important;
 	}
 }
 
