@@ -528,6 +528,9 @@ button.registry-button {
   body #main_content {
     text-align: left; }
 
+  .m-item {
+    margin: 0 10px; }
+
   button.registry-button {
     width: 100%;
     margin: 5px 0; } }
