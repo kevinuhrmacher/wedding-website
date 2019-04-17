@@ -19,4 +19,4 @@ The Mount Vernon Inn Restaurant
 
 3200 Mount Vernon Memorial Highway, Mt Vernon, VA 22309
 
-A shuttle will be available to take guests from the Sheraton to the Mount Vernon Inn starting at 4 p.m.
+A shuttle will be available to take guests from the Sheraton to Mount Vernon at 4 p.m.

@@ -19,11 +19,6 @@ Parking: $10/night | [**Book with this link by May 17**](https://www.marriott.co
 ### Suite with king-size bed and queen pullout
 $109/night*
 
-### Suite with two queen-size beds and queen pullout 
-For this option, please call the front desk at (703)836-4700 and mention the group — Lexi Schmidt and Kevin Uhrmacher Wedding — to make a reservation.
-
-$109/night*
-
 *This rate is for Friday and Saturday nights, but if you’d like to extend your trip it’s also good for three nights before or after, depending on availability.
 
 
