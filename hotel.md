@@ -7,9 +7,9 @@ layout: default
 # _Travel details_
 
 #### Wedding hotel blocks
-There will be two hotel options in historic [Old Town Alexandria](https://www.visitalexandriava.com/old-town-alexandria/), just south of D.C. A block away from one another, they are 5-10 minutes from Reagan National Airport and 15-20 minutes from Mount Vernon. From the hotel you’ll be a short walk or shuttle ride from the shops and restaurants on King Street and the waterfront.
+There are two hotel options in historic [Old Town Alexandria](https://www.visitalexandriava.com/old-town-alexandria/), just south of D.C. A block away from one another, they are both 5 to 10 minutes from Reagan National Airport and 15 to 20 minutes from Mount Vernon. From the hotels, you’ll be a short walk or shuttle ride from the shops and restaurants on King Street and the waterfront.
 
-Let us know if you run into any problems when booking your hotel rooms!
+<a href="mailto:kevinlexiuhrmacher@gmail.com">Let us know if you run into any problems when booking your hotel room.</a>
 
 &nbsp;
 
@@ -36,8 +36,9 @@ $99/night
 ### Suite with king-size bed and queen pullout
 $129/night
 
+&nbsp;
 
-<!--Once you’ve booked your hotel, check out our suggestions for [things to do while you’re visiting D.C.](LINK)-->
+Also check out our suggestions for [things to do during your visit to D.C.](http://www.makeuhrmine.com/dc-guide)
 
 
 #### Other hotels
@@ -52,18 +53,19 @@ $129/night
 
 &nbsp;
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=16dVJCFVTjAuBB9VuNTo0ey6SqtQ5lQcI" width="640" height="480"></iframe>
+<iframe class="no-mobile" src="https://www.google.com/maps/d/u/0/embed?mid=16dVJCFVTjAuBB9VuNTo0ey6SqtQ5lQcI" width="640" height="480"></iframe>
 
 #### Flying to D.C. 
-We suggest arriving at Reagan National Airport (DCA), which is a 5-10 minute drive. Both hotels have shuttles from there. Other airports — Dulles (IAD) and Baltimore (BWI) — will require considerably more travel to get to Old Town.
+We suggest arriving at Reagan National Airport (DCA). Both hotels have shuttles from there. Other airports — Dulles (IAD) and Baltimore (BWI) — will require considerably more travel to get to Old Town.
 
 
 #### Rental car
 If you’re renting a car for your visit, we recommend taking the shuttle from DCA (Reagan National Airport) to the Sheraton and renting the car at the Enterprise location on-site. This will be less expensive than doing it at the airport.
 
+
 #### A note on the Metro
 
-Unfortunately, the Metro [will not be operating quite as we’d hoped](https://www.washingtonpost.com/local/trafficandcommuting/metro-wants-to-rebuild-20-station-platforms-in-three-years-creating-safetrack-like-disruptions/2018/05/07/f7c19dcc-5164-11e8-abd8-265bd07a9859_story.html) during the wedding weekend. Your best bet to get to D.C. is probably to take the hotel shuttle to Reagan National Airport and get on the Yellow or Blue Line there.
+Unfortunately, the Metro [will not be operating quite as we’d hoped](https://www.washingtonpost.com/local/trafficandcommuting/metro-wants-to-rebuild-20-station-platforms-in-three-years-creating-safetrack-like-disruptions/2018/05/07/f7c19dcc-5164-11e8-abd8-265bd07a9859_story.html) during the wedding weekend. Stations south of the airport will be closed. Your best bet to get into Washington, D.C., is probably to take the hotel shuttle to Reagan National Airport and get on the Yellow or Blue Line there. Uber and Lyft are also good options.
 
 
 

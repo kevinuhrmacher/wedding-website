@@ -39,10 +39,10 @@ a {
 }
 
 header {
-	max-width: 800px;
 	margin: 0 auto;
 	padding-left: 20px;
 	padding-right: 20px;
+	// background-color: lighten(#a3b4aa, 28%); 
 
 	h1 {
 		font-family: "adobe-caslon-pro", serif;
@@ -69,6 +69,10 @@ header {
 
 .leaves-2 {
   transform: rotate(180deg); /* Equal to rotateZ(45deg) */
+}
+
+.belly-band {
+	width: 75%;
 }
 
 .page-menu {}
@@ -133,12 +137,18 @@ button.registry-button {
 }
 
 
+span.kevin-edit { color: red; }
 
 .dc-guide {
 	text-align: left;
 
 	p {
 		margin-bottom: 20px;
+	}
+
+	s {
+		text-decoration-line: line-through;
+  		text-decoration-color: red;
 	}
 
 	img {
@@ -151,6 +161,10 @@ button.registry-button {
 }
 
 @media screen and (max-width: 600px) {
+	.no-mobile {
+		display: none;
+	}
+
 	body #main_content {
 		text-align: left;
 	}

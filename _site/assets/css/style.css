@@ -443,7 +443,6 @@ a {
   text-decoration: none; }
 
 header {
-  max-width: 800px;
   margin: 0 auto;
   padding-left: 20px;
   padding-right: 20px; }
@@ -466,6 +465,9 @@ header {
 .leaves-2 {
   transform: rotate(180deg);
   /* Equal to rotateZ(45deg) */ }
+
+.belly-band {
+  width: 75%; }
 
 .m-item {
   display: inline-block;
@@ -516,10 +518,16 @@ button.registry-button {
     cursor: pointer;
     background-color: #92a69a; }
 
+span.kevin-edit {
+  color: red; }
+
 .dc-guide {
   text-align: left; }
   .dc-guide p {
     margin-bottom: 20px; }
+  .dc-guide s {
+    text-decoration-line: line-through;
+    text-decoration-color: red; }
   .dc-guide img {
     max-width: 200px !important;
     float: right;
@@ -528,6 +536,9 @@ button.registry-button {
     border-width: 4px !important; }
 
 @media screen and (max-width: 600px) {
+  .no-mobile {
+    display: none; }
+
   body #main_content {
     text-align: left; }
 
