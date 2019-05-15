@@ -14,7 +14,7 @@ There are two hotel options in historic [Old Town Alexandria](https://www.visita
 &nbsp;
 
 ## Sheraton Suites — Old Town Alexandria
-Parking: $10/night | [**Book with this link by May 17**](https://www.marriott.com/event-reservations/reservation-link.mi?id=1543516969667&key=GRP&app=resvlink)
+Parking: $10/night | [**This block is full**](https://www.marriott.com/event-reservations/reservation-link.mi?id=1543516969667&key=GRP&app=resvlink)
 
 ### Suite with king-size bed and queen pullout
 $109/night*
@@ -26,9 +26,6 @@ $109/night*
 
 ## Holiday Inn and Suites — Old Town Alexandria
 Group code: USH | Parking: $10/night | [**Book with this link by May 24**](https://www.holidayinn.com/redirect?path=rates&brandCode=HI&localeCode=en&regionCode=1&hotelCode=axehd&checkInDate=14&checkInMonthYear=052019&checkOutDate=16&checkOutMonthYear=052019&_PMID=99801505&GPC=USH&viewfullsite=true)
-
-### Room with king-size bed
-$99/night
 
 ### Room with two queen-size beds
 $99/night
