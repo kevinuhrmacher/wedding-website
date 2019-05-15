@@ -25,7 +25,7 @@ $109/night*
 &nbsp;
 
 ## Holiday Inn and Suites — Old Town Alexandria
-Group code: USH | Parking: $10/night | [**Book with this link by May 14**](https://www.holidayinn.com/redirect?path=rates&brandCode=HI&localeCode=en&regionCode=1&hotelCode=axehd&checkInDate=14&checkInMonthYear=052019&checkOutDate=16&checkOutMonthYear=052019&_PMID=99801505&GPC=USH&viewfullsite=true)
+Group code: USH | Parking: $10/night | [**Book with this link by May 24**](https://www.holidayinn.com/redirect?path=rates&brandCode=HI&localeCode=en&regionCode=1&hotelCode=axehd&checkInDate=14&checkInMonthYear=052019&checkOutDate=16&checkOutMonthYear=052019&_PMID=99801505&GPC=USH&viewfullsite=true)
 
 ### Room with king-size bed
 $99/night
