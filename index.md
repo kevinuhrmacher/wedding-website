@@ -21,4 +21,5 @@ The Mount Vernon Inn Restaurant
 
 A shuttle will be available to take guests from the Sheraton to Mount Vernon at 4 p.m. 
 
-### _[Please sign up to take the shuttle here.](https://forms.gle/y9tP3BTzTYtnodKv8)_
+<!-- _[Please sign up to take the shuttle here.](https://forms.gle/y9tP3BTzTYtnodKv8)_ -->
+_The shuttle on the way to Mt. Vernon is full. We suggest sharing an Uber or Lyft ride._

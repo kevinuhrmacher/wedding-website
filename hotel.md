@@ -14,7 +14,7 @@ There are two hotel options in historic [Old Town Alexandria](https://www.visita
 &nbsp;
 
 ## Sheraton Suites — Old Town Alexandria
-Parking: $10/night | [**This block is full**](https://www.marriott.com/event-reservations/reservation-link.mi?id=1543516969667&key=GRP&app=resvlink)
+Parking: $10/night
 
 ### Suite with king-size bed and queen pullout
 $109/night*
@@ -25,7 +25,7 @@ $109/night*
 &nbsp;
 
 ## Holiday Inn and Suites — Old Town Alexandria
-Group code: USH | Parking: $10/night | [**Book with this link by May 24**](https://www.holidayinn.com/redirect?path=rates&brandCode=HI&localeCode=en&regionCode=1&hotelCode=axehd&checkInDate=14&checkInMonthYear=052019&checkOutDate=16&checkOutMonthYear=052019&_PMID=99801505&GPC=USH&viewfullsite=true)
+Group code: USH | Parking: $10/night
 
 ### Room with two queen-size beds
 $99/night
@@ -62,7 +62,7 @@ If you’re renting a car for your visit, we recommend taking the shuttle from D
 
 #### A note on the Metro
 
-Unfortunately, the Metro [will not be operating quite as we’d hoped](https://www.washingtonpost.com/local/trafficandcommuting/metro-wants-to-rebuild-20-station-platforms-in-three-years-creating-safetrack-like-disruptions/2018/05/07/f7c19dcc-5164-11e8-abd8-265bd07a9859_story.html) during the wedding weekend. Stations south of the airport will be closed. Your best bet to get into Washington, D.C., is probably to take the hotel shuttle to Reagan National Airport and get on the Yellow or Blue Line there. Uber and Lyft are also good options.
+Unfortunately, the Metro [will not be operating quite as we’d hoped](https://www.wmata.com/service/rail/PlatformProject/index.cfm) during the wedding weekend. Stations south of the airport will be closed. Your best bet to get into Washington, D.C., is probably to take the hotel shuttle to Reagan National Airport and get on the Yellow or Blue Line there. Uber and Lyft are also good options.
 
 
 
